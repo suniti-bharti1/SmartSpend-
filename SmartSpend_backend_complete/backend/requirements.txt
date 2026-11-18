@@ -1,0 +1,14 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+SQLAlchemy==2.0.40
+psycopg2-binary==2.9.10
+pydantic==2.11.4
+pydantic-settings==2.9.1
+python-jose[cryptography]==3.4.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.20
+email-validator==2.2.0
+joblib==1.6.0
+numpy==2.5.4
+pandas==3.1.1
+scikit-learn==1.9.1
